@@ -1,0 +1,1 @@
+reminder: Location for these files is ~/.qlcplus/fixtures 
